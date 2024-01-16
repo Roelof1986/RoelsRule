@@ -1,3 +1,8 @@
+//--------------------------------\\
+//  WavCapInOut V2                \\
+//  Author: Roelof Emmerink       \\
+//  E-mail: rpe86@hotmail.com     \\
+//--------------------------------\\
 program wavcapinout_4_V2;
 {$mode objfpc}
 
