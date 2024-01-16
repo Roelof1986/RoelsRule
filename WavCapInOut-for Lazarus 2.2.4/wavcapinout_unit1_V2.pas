@@ -1,3 +1,8 @@
+//--------------------------------\\
+//  WavCapInOut V2                \\
+//  Author: Roelof Emmerink       \\
+//  E-mail: rpe86@hotmail.com     \\
+//--------------------------------\\
 unit wavcapinout_unit1_V2;
 
 {$mode ObjFPC}{$H+}
