@@ -4,4 +4,4 @@
 2.  Compile BUILD2v2.pas
 3.  Run
 
-keys are : <arrows>, <Z>, <space>, <enter>, and the ones printed on screen
+keys are : [arrows], [Z], [space], [enter], and the ones printed on screen
