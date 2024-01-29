@@ -15,6 +15,6 @@ This program contains a complete 3D engine and a standard ANN (artificial back-p
 2.  Compile BUILD2v2.pas
 3.  Run
 
-4.  keys are : [arrows]
+keys are : [arrows]
 
-5.  This program contains mu/nu intersection calculation of line parts and 2D gravity simulation
+This program contains mu/nu intersection calculation of line parts and 2D gravity simulation
