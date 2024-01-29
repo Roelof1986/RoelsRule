@@ -12,7 +12,7 @@ This program contains a complete 3D engine and a standard ANN (artificial back-p
 **--GravTest v5--**
 
 1.  Download & install Turbo Pascal 16 bit
-2.  Compile BUILD2v2.pas
+2.  Compile GRAVTE5V.pas
 3.  Run
 
 keys are : [arrows]
