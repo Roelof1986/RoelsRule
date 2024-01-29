@@ -1,5 +1,5 @@
 //--------------------------------\\
-//  Build 2v2 (2004)              \\
+//  Build 2v2 (Oktober 2004)              \\
 //  Author: Roelof Emmerink       \\
 //  E-mail: rpe86@hotmail.com     \\
 //--------------------------------\\
