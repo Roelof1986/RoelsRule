@@ -1,5 +1,7 @@
-**--WavCapInOut V2--**
+**--Build 2v2--**
 
-1.  Install Lazarus 2.2.4
-2.  Install OpenAL (oalinst.exe)
-3.  Compile and run
+1.  Download & install Turbo Pascal 16 bit
+2.  Compile BUILD2v2.pas
+3.  Run
+
+keys are : <arrows>, <Z>, <space>, <enter>, and the ones printed on screen
