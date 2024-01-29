@@ -1,5 +1,5 @@
 //--------------------------------\\
-//  WavCapInOut V2                \\
+//  WavCapInOut V2 (January 2024) \\
 //  Author: Roelof Emmerink       \\
 //  E-mail: rpe86@hotmail.com     \\
 //--------------------------------\\
