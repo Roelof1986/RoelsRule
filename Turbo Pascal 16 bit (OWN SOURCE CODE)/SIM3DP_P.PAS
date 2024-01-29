@@ -1,3 +1,8 @@
+//--------------------------------\\
+//  Sim3DPoly (October 2004)      \\
+//  Author: Roelof Emmerink       \\
+//  E-mail: rpe86@hotmail.com     \\
+//--------------------------------\\
 program Sim3DPolyPublic;
 
 {$N+}
