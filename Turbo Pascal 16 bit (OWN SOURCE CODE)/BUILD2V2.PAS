@@ -1,3 +1,9 @@
+//--------------------------------\\
+//  Build 2v2                    \\
+//  Author: Roelof Emmerink       \\
+//  E-mail: rpe86@hotmail.com     \\
+//--------------------------------\\
+
 program LearnAndGenerateBuildingsGraphicCos2v2;
 
 {$N+}
