@@ -5,3 +5,5 @@
 3.  Run
 
 keys are : [arrows], [Z], [space], [enter], and the ones printed on screen
+
+This program contains a complete 3D engine and a standard ANN (artificial back-propagation neural network)
