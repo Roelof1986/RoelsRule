@@ -17,4 +17,4 @@ This program contains a complete 3D engine and a standard ANN (artificial back-p
 
 keys are : [arrows]
 
-This program contains mu/nu intersection calculation of line parts and 2D gravity simulation
+This program contains labda/mu intersection calculation of line parts and 2D gravity simulation
