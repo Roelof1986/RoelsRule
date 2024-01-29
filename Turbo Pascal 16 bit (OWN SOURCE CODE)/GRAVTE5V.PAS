@@ -1,3 +1,8 @@
+//--------------------------------\\
+//  Build 2v2 (March 2004)        \\
+//  Author: Roelof Emmerink       \\
+//  E-mail: rpe86@hotmail.com     \\
+//--------------------------------\\
 program GravityTest;
 
 {$N+}
